@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 
+<h3>About Me</h3>
+
 <p>
     I am a French junior developer, since I was very young I have always been interested in IT in web development.
 </p>
@@ -12,14 +14,7 @@
     Don’t hesitate to explore my github to learn more about my projects !
 </p>
 
-> [!IMPORTANT]
-> Informtation : Some repositories are sorted by name, those which are not one of the keywords in this are just projects :
 
--  TEST-NAME_REPOSITORIES : This indicates that it is a test repository
--  MODEL-NAME_REPOSITORIES : This is a model repository of a simple application
--  SUPPORT-NAME_REPOSITORIES : Creation of workshops for beginners in development on different themes
-
-<h3>About Me</h3>
 
 - 🌱 I am developing my skills in Typescript and Docker while discovering the use of GitHub Actions.
 
@@ -122,3 +117,10 @@
 
 <h5 align="left">Github Trophy Stats </h5>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandre78r" alt="Github Trophy Stats - alexandre78r" /></a> </p>
+
+> [!IMPORTANT]
+> Informtation : Some repositories are sorted by name, those which are not one of the keywords in this are just projects :
+
+-  TEST-NAME_REPOSITORIES : This indicates that it is a test repository
+-  MODEL-NAME_REPOSITORIES : This is a model repository of a simple application
+-  SUPPORT-NAME_REPOSITORIES : Creation of workshops for beginners in development on different themes
