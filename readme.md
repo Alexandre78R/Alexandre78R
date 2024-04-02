@@ -48,6 +48,7 @@
       <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-44883e?style=flat-square&logo=Node.js&logoColor=white" alt="Nodejs"/>
       <img alt="Apollo graphql" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" alt="Apollo graphql"/>
       <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E535AB?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+      <img alt="TypeGraphQL" src="https://img.shields.io/badge/-TypeGraphQL-5149B8?style=flat-square&logo=graphql&logoColor=white" alt="TypeGraphQL"/>
       <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logoColor=white" alt="Express"/>
     </ul>
   </li>
