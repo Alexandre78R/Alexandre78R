@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 
 <p>
-    I am a junior developer, since I was young I have always been interested in IT in web development
+    I am a French junior developer, since I was very young I have always been interested in IT in web development.
 </p>
 
 <p>
