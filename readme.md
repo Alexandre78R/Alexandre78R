@@ -12,6 +12,12 @@
     Don’t hesitate to explore my github to learn more about my projects !
 </p>
 
+> [!IMPORTANT]
+> Informtation : Some repositories are sorted by name, those which are not one of the keywords in this are just projects :
+        -  TEST-NAME_REPOSITORIES : This indicates that it is a test repository
+        -  MODEL-NAME_REPOSITORIES : This is a model repository of a simple application
+        -  SUPPORT-NAME_REPOSITORIES : Creation of workshops for beginners in development on different themes
+
 - 🌱 I am developing my skills in Typescript and Docker while discovering the use of GitHub Actions.
 
 - 👨‍💻 All of my projects are available at  [You can find my open-source projects on my github !](https://github.com/Alexandre78R?tab=repositories)
