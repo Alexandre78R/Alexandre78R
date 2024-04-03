@@ -3,11 +3,11 @@
 <h3>About Me</h3>
 
 <p>
-    I am a French junior developer, since I was very young I have always been interested in IT in web development.
+    I am a French junior developer, since I was very young I have always been interested in IT in Web development.
 </p>
 
 <p>
-    Today, I am actively working to turn my passion into my profession by pursuing a web development program.
+    Today, I am actively working to turn my passion into my profession by pursuing a Web development training and program.
 </p>
 
 <p>
@@ -18,9 +18,9 @@
 
 - 🌱 I am developing my skills in Typescript and Docker while discovering the use of GitHub Actions.
 
-- 👨‍💻 All of my projects are available at  [You can find my open-source projects on my github !](https://github.com/Alexandre78R?tab=repositories)
+- 👨‍💻 All of my projects are available at  [you can find my open-source projects on my Github !](https://github.com/Alexandre78R?tab=repositories)
 
-- 📫 You can contact me on <img alt="Discord" src="https://img.shields.io/badge/-Discord-4D3FF6?style=flat-square&logo=discord&logoColor=white" alt="discord" /> - alexandre78r (formerly Alexandre78R#7666) or by email: alexandre.renard98@gmail.com !
+- 📫 You can contact me on by email: alexandre.renard98@gmail.com or <img alt="Discord" src="https://img.shields.io/badge/-Discord-4D3FF6?style=flat-square&logo=discord&logoColor=white" alt="discord" /> - alexandre78r (formerly Alexandre78R#7666) !
 
 <h3 align="left">Skills</h3>
 
@@ -119,7 +119,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandre78r" alt="Github Trophy Stats - alexandre78r" /></a> </p>
 
 > [!IMPORTANT]
-> Informtation : Some repositories are sorted by name, those which are not one of the keywords in this are just projects :
+> Information : Some repositories are sorted by name, those which are not are projects sorted by the foolowing keywords :
 
 -  TEST-NAME_REPOSITORIES : This indicates that it is a test repository
 -  MODEL-NAME_REPOSITORIES : This is a model repository of a simple application
