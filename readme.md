@@ -11,14 +11,14 @@
 </p>
 
 <p>
-    Don’t hesitate to explore my github to learn more about my projects !
+    Don’t hesitate to explore my GitHub to learn more about my projects !
 </p>
 
 
 
 - 🌱 I am developing my skills in Typescript and Docker while discovering the use of GitHub Actions.
 
-- 👨‍💻 All of my projects are available at  [you can find my open-source projects on my Github !](https://github.com/Alexandre78R?tab=repositories)
+- 👨‍💻 All of my projects are available at  [you can take a look at my repositories ](https://github.com/Alexandre78R?tab=repositories)
 
 - 📫 You can contact me on by email:alexandre.renard98@gmail.com or <img alt="Discord" src="https://img.shields.io/badge/-Discord-4D3FF6?style=flat-square&logo=discord&logoColor=white" alt="discord" /> - alexandre78r (formerly Alexandre78R#7666)
 
@@ -75,7 +75,7 @@
   </li>
   
   <li>
-    Devops
+    DevOps
     <ul>
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       <img alt="Github Action" src="https://img.shields.io/badge/-Github%20Action-000000?style=flat-square&logo=github$&logoColor=white" alt="Github Action"/>
@@ -105,7 +105,7 @@
 
 <h3 align="left">Statistics about me </h3>
 
-<h5 align="left">Statistiques Gitbub </h5>
+<h5 align="left">GitHub Stats</h5>
 <div align="center">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre78R&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=100" width="35%" height="20%" alt="Statistiques Gitbub alexandre78r" />
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Alexandre78R&theme=dark&hide_border=true&mode=weekly&card_width=400" width="42.5%" alt="GitHub Streak" /></a>
