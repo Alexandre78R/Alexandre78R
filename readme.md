@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at  [you can find my open-source projects on my Github !](https://github.com/Alexandre78R?tab=repositories)
 
-- 📫 You can contact me on by email: alexandre.renard98@gmail.com or <img alt="Discord" src="https://img.shields.io/badge/-Discord-4D3FF6?style=flat-square&logo=discord&logoColor=white" alt="discord" /> - alexandre78r (formerly Alexandre78R#7666) !
+- 📫 You can contact me on by email:alexandre.renard98@gmail.com or <img alt="Discord" src="https://img.shields.io/badge/-Discord-4D3FF6?style=flat-square&logo=discord&logoColor=white" alt="discord" /> - alexandre78r (formerly Alexandre78R#7666)
 
 <h3 align="left">Skills</h3>
 
