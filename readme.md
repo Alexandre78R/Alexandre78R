@@ -38,7 +38,7 @@
       <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
       <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img alt="Redux" src="https://img.shields.io/badge/-Redux-8C1EB2?style=flat-square&logo=redux&logoColor=white"/>
-      <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-26EDED?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-24CDCD?style=flat-square&logo=tailwindcss&logoColor=white"/>
       <img alt="mui" src="https://img.shields.io/badge/-MUI-167FDC?style=flat-square&logo=mui&logoColor=white"/>
       <img alt="chakra ui" src="https://img.shields.io/badge/-Chakra%20UI-36C5CA?style=flat-square&logo=chakra-ui&logoColor=white"/>
       <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-a259ff?style=flat-square&logo=bootstrap&logoColor=white"/>
