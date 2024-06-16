@@ -69,6 +69,7 @@
     <ul>
       <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1D73DC?style=flat-square&logo=PostgreSQL&logoColor=white"/>
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+      <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-1E8DBC?style=flat-square&logo=SQLite&logoColor=white"/>
       <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-1DBA22?style=flat-square&logo=mongodb&logoColor=white"/>
       <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-000000?style=flat-square&logo=Prisma&logoColor=white"/>
       <img alt="Knex.js" src="https://img.shields.io/badge/-Knex.js-E95602?style=flat-square&logo=Knex.js&logoColor=white"/>
